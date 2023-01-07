@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans';
+}
 #header{
     background-image: url(../images/banner/banner2.png);
     height: 100vh;
@@ -13,6 +17,7 @@
 }
 .banner-description{
     font-size: 23px;
+    padding: 15px 0;
 }
 .header-btn{
     font-size: 30px;
@@ -40,6 +45,7 @@ line-height: 47px;
 }
 .failure-description{
     font-size: 22px;
+    padding: 15px 0;
 }
 .failure-list{
     font-size: 18px;
@@ -78,6 +84,12 @@ line-height: 47px;
 .contact{
     padding: 50px 70px;
 }
+.contact>h1{
+    font-size: 40px;
+    color: white;
+    padding: 15px 0;
+    width: 500px;
+}
 #contact{
     
     padding: 50px 230px;
@@ -112,19 +124,25 @@ line-height: 47px;
     color: white;
    
 }
+.div1 img{
+  margin-right: 20px;
+}
 
 .contact-description{
     font-size: 22px;
+    padding: 20px 0;
 }
 .contact-email{
     font-size: 18px;
 }
 .contact-phone{
     font-size: 18px;
+    padding: 20px 0;
 }
 .contact-head{
-    font-size: 50px;
+    font-size: 40px;
 }
+
 .div2{
     margin-top: 250px ;
     margin-right:230px ;
@@ -132,13 +150,11 @@ line-height: 47px;
     color: white;
 }
 .email-information{
-    margin-bottom: 20px;
     font-size: 20px;
-    text-align: center;
+    height:64px;
+    width: 325px;
+    margin: 25px 0;
 }
-.subscribe-btn{
-    font-size: 20px;
-    background-color: orange;
-}
+
 
 
