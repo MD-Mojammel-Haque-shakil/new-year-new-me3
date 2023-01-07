@@ -1,0 +1,144 @@
+#header{
+    background-image: url(../images/banner/banner2.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    text-align: right;
+    padding-top: 150px;
+    padding-right: 150px;
+
+}
+.banner-header{
+    font-size: 40px;
+}
+.banner-description{
+    font-size: 23px;
+}
+.header-btn{
+    font-size: 30px;
+    background-color:orangered;
+}
+
+/*failure section style*/
+.failures{
+    display: flex;
+    margin-top: 30px;
+    margin-right: 300px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+   
+}
+.failure-div{
+    margin-top: 200px;
+    background-color:aliceblue;
+}
+.failure-title{
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+}
+.failure-description{
+    font-size: 22px;
+}
+.failure-list{
+    font-size: 18px;
+}
+.list-all{
+    margin-bottom: 15px;
+}
+
+/*plan style*/
+.plan-section{
+    background-color:beige;
+}
+.plan-section>h1{
+    text-align: center;
+    display: block;
+    padding: 40px 0px;
+    font-weight: 700px;
+    font-size: 40px;
+}
+.plan-title{
+    margin-right: 30px;
+}
+.plan-subtitle{
+    margin-right: 30px;
+}
+.plan-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 220px;
+}
+.plan-container>div{
+    text-align: center;
+}
+
+/*contact section style*/
+.contact{
+    padding: 50px 70px;
+}
+#contact{
+    
+    padding: 50px 230px;
+   
+}
+.content-wraper{
+    background-image: linear-gradient(to right, rgba(0, 0, 255, 0.9),rgba(255, 255, 255,0.1)), url(../images/watch.png) ;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px;
+}
+.btn{
+    font-size: 30px;
+    color: orangered;
+}
+
+/*connect section style*/
+.lastsection{
+    display: flex;
+    background-color:black;
+    gap: 320px; 
+}
+.lastsection a{
+    text-decoration: none;
+}
+
+.div1{
+    margin-top: 130px;
+    margin-bottom: 130px;
+    margin-left: 100px;
+    color: white;
+   
+}
+
+.contact-description{
+    font-size: 22px;
+}
+.contact-email{
+    font-size: 18px;
+}
+.contact-phone{
+    font-size: 18px;
+}
+.contact-head{
+    font-size: 50px;
+}
+.div2{
+    margin-top: 250px ;
+    margin-right:230px ;
+    margin-bottom:130px ;
+    color: white;
+}
+.email-information{
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.subscribe-btn{
+    font-size: 20px;
+    background-color: orange;
+}
+
+
